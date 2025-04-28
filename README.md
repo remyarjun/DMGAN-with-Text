@@ -11,3 +11,4 @@
 
 [DMGAN](https://github.com/MinfengZhu/DM-GAN)
 
+[DFGAN](https://github.com/tobran/DF-GAN)
