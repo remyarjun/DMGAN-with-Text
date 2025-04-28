@@ -24,4 +24,4 @@
 ## Performance
 
 ## References
-https://arxiv.org/abs/1710.10916
+DMGAN: https://arxiv.org/abs/1904.01310
