@@ -13,11 +13,7 @@
 
 ## Codes
 
-* [AttnGAN[code]](https://github.com/taoxugit/AttnGAN)
-
 * [DMGAN[code]](https://github.com/MinfengZhu/DM-GAN)
-
-* [DFGAN[code]](https://github.com/tobran/DF-GAN)
 
 ## Training
 * Pre-train encoder models: Use this [bird]() and [coco]() files to train the encoder models.
