@@ -39,6 +39,7 @@
 * We compute FID score for models using [https://github.com/mseitzer/pytorch-fid/tree/802da3963113b5b5f8154e0e27580ee4c97460ab].
  
 ## Performance
+![performance](https://github.com/user-attachments/assets/edd96acb-805d-42a9-9aca-3de4280eb55a)
 
 ## References
 * [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://github.com/taoxugit/AttnGAN)
