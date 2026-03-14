@@ -1,4 +1,4 @@
-# DMGAN-with-Text
+# DMGAN-with-Text-Attention
 ## Requirements
 * `python 3.6.13`
 * `Pytorch 1.6.0`
